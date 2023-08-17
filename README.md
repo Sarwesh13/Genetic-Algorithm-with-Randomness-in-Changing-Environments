@@ -5,8 +5,8 @@ This is a simple simulation to see how introduction of randomness in evolution a
 Here are the assumptions made:
 
   1. Population has two genes hot gene and cold gene
-  2. For hot climate hot gene is more fit
-  3. For cold climate cold gene is more fit
+  2. For hot climate hot gene is more fit (1's)
+  3. For cold climate cold gene is more fit (0's)
   4. Top 20% of population contributes 60% of the next generation
   5. For remaining 80%, based on if randomness is added or not each crossover produces one child
   6. Population is kept fixed from generation to generation in the first version
